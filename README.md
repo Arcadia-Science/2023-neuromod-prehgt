@@ -14,3 +14,4 @@ We provide public links to the files in the file [`public_file_links.md`](./publ
 The results from the pipeline are available in the [results](./results) folder.
 * [`results_filtered.tsv`](./results/results_filtered.tsv): records the HGT candidates output by the prehgt pipeline. 
 * [`genomes/*csv`](./results/genomes): records the genomes analyzed by the pipeline.
+* [`neuromodulatory_candidate_gffs/*gff`](./results/neuromodulatory_candidate_gffs/): contains annotation information in GFF format for three HGT candidate genes with predicted function relevant to neuromodulation. These events are described in detail in the [pub](https://doi.org/10.57844/arcadia-jqq0-y385).
