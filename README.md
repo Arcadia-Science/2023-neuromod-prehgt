@@ -1,6 +1,6 @@
-# Screening for fungal modulartory genes through horizontal gene transfer discovery
+# Screening for fungal neuromodulatory genes through horizontal gene transfer discovery
 
-This respository documents the code that was run as part of the pub, ["Potential neuromodulatory genes identified through a discovery pipeline that traces horizontal gene transfer events"](https://doi.org/10.57844/arcadia-jqq0-y385).
+This respository documents the code that was run as part of the pub, ["Potential neuromodulatory genes identified through a discovery pipeline that screens for horizontal gene transfer events"](https://doi.org/10.57844/arcadia-jqq0-y385).
 
 We ran the [prehgt](https://github.com/Arcadia-Science/prehgt) pipeline on Nextflow [Tower](https://tower.nf) (Nextflow version 23.04.2 build 5870).
 We documented the run information in the following files:
